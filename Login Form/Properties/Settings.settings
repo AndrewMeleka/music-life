@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Music_Life_V11.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="rmbu" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="rmbp" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="mainacc" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="bc" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">28, 151, 234</Value>
+    </Setting>
+    <Setting Name="t" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">28, 151, 234</Value>
+    </Setting>
+    <Setting Name="bt" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">45, 45, 46</Value>
+    </Setting>
+    <Setting Name="bcc" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">45, 45, 46</Value>
+    </Setting>
+    <Setting Name="theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="final" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
